@@ -1,0 +1,6 @@
+{
+  "name": "EventSpace",
+  "description": "Platform Manajemen dan Booking Slot Event Terpadu untuk Kebangkitan UMKM & Tenant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
