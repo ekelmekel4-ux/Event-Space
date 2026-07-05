@@ -2,11 +2,8 @@
 
 <div align="center">
   <img src="./public/logo.svg" alt="EventSpace Logo" width="120" height="120" style="margin-bottom: 20px;" />
-  <p><strong>Platform Digital Terintegrasi untuk Penyewaan Slot Booth Event, Bazar, Festival, dan Pameran.</strong></p>
+  <p><strong>Platform Digital Terintegrasi untuk Penyewaan Slot Booth Event, Bazaar, Festival, dan Pameran.</strong></p>
   
-  <a href="https://event-space-v3.vercel.app">
-    <img src="https://img.shields.io/badge/Demo-Live_Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
   <a href="https://github.com/ekelmekel4-ux/Event-Space">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
   </a>
@@ -19,14 +16,8 @@
 Berikut adalah halaman onboarding saat pengguna pertama kali mengakses **EventSpace**:
 
 <div align="center">
-  <img src="./screenshot.png" alt="EventSpace App Onboarding" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+  <img src="./preview.png" alt="EventSpace App Onboarding" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
 </div>
-
----
-
-## 🔗 Tautan Penting
-* **Link Aplikasi Live:** [https://event-space-v3.vercel.app](https://event-space-v3.vercel.app)
-* **Link Repositori:** [https://github.com/ekelmekel4-ux/Event-Space](https://github.com/ekelmekel4-ux/Event-Space)
 
 ---
 
@@ -44,17 +35,6 @@ EventSpace dirancang untuk mempermudah kolaborasi antara **Event Organizer (EO)*
 * **Manajemen Event:** Tambah, edit, draft, atau selesaikan event.
 * **Verifikasi Pembayaran & Pendaftaran:** Sistem admin khusus untuk menyetujui atau menolak bukti pembayaran sewa booth dari tenant.
 * **Analisis & Laporan Keuangan:** Dashboard analitik dengan visualisasi grafik pendapatan serta opsi cetak laporan keuangan ke format PDF.
-
----
-
-## 👥 Akun Demo untuk Uji Coba
-
-Untuk memudahkan pengujian fungsionalitas kedua peran (role), Anda dapat masuk menggunakan akun demo berikut:
-
-| Peran (Role) | Email | Kata Sandi (Password) | Keterangan |
-|---|---|---|---|
-| **Tenant** | `younjung@gmail.com` | `tenant123` | Digunakan untuk menyewa booth, upload bukti bayar, dll. |
-| **Organizer (Admin)** | `admin@eventspace.com` | `admin123` | Digunakan untuk mengelola event & memverifikasi pendaftaran. |
 
 ---
 
